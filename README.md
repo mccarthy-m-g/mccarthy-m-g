@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact
+
+- [Twitter](https://twitter.com/mccarthymg)
+- [Personal Website](https://michaelmccarthy.netlify.app/)
+- [Curriculum Vitae](https://michaelmccarthy.netlify.app/files/michael-mccarthy-cv.pdf)
