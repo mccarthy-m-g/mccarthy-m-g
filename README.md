@@ -1,5 +1,7 @@
 ### Michael McCarthy
 
+[![R](https://img.shields.io/badge/-☰-1f65b7?style=flat&logo=r&logoWidth=20)](https://github.com/mccarthy-m-g?tab=repositories&q=&type=&language=r)
+
 Hi, I’m Michael, an R programmer and data scientist. My background is in psychology research, where I’ve studied topics ranging from attitude formation, to decision-making, to individual differences in brain function. Studying how people think and act has given me a deep appreciation for the human elements of data science. Much of our data is about humans. All of our data is communicated to humans. Understanding these relationships has been key to successfully navigating my role as a data scientist.
 
 When I’m not pushing new commits to GitHub you can find me writing music in my studio, riding my bike on the local trails, or spending time with my friends and family.
