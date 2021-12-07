@@ -13,10 +13,10 @@ When I’m not pushing new commits to GitHub you can find me writing music in my
 ### Sites
 
 - [Tidy Tales: Wrangling, Visualizing, Modelling, Communicating data](https://tidytales.ca)
-- [Personal Website](https://michaelmccarthy.netlify.app/)
+- [Personal Website](https://michaelmccarthy.tidytales.ca/)
 
 ### Contact
 
-- [LinkedIn](https://www.linkedin.com/in/michael-g-mccarthy)
+- [LinkedIn](https://www.linkedin.com/in/mccarthymg)
 - [Twitter](https://twitter.com/mccarthymg)
-- [Curriculum Vitae](https://michaelmccarthy.netlify.app/files/michael-mccarthy-cv.pdf)
+- [Consulting](https://michaelmccarthy.tidytales.ca/consulting/)
