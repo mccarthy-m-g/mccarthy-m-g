@@ -17,6 +17,4 @@ When I’m not pushing new commits to GitHub you can find me writing music in my
 
 ### Contact
 
-- [LinkedIn](https://www.linkedin.com/in/mccarthymg)
-- [Twitter](https://twitter.com/mccarthymg)
 - [Consulting](https://michaelmccarthy.tidytales.ca/consulting/)
