@@ -1,6 +1,6 @@
 ### Michael McCarthy
 
-[![R](https://img.shields.io/badge/-☰-1f65b7?style=flat&logo=r&logoWidth=20)](https://github.com/mccarthy-m-g?tab=repositories&q=&type=&language=r) [![Python](https://img.shields.io/badge/-☰-ffe873?style=flat&logo=python&logoWidth=20)](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Apython&type=public&language=&sort=)
+[![R](https://img.shields.io/badge/-☰-1f65b7?style=flat&logo=r&logoWidth=20)](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Ar&type=public&language=&sort=) [![Python](https://img.shields.io/badge/-☰-ffe873?style=flat&logo=python&logoWidth=20)](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Apython&type=public&language=&sort=)
 
 <!--
 [![Python](https://img.shields.io/badge/-☰-ffe873?style=flat&logo=python&logoWidth=20)](https://github.com/mccarthy-m-g?tab=repositories&q=&type=&language=python)
