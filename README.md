@@ -24,9 +24,9 @@ When I’m not pushing new commits to GitHub you can find me writing music in my
 
 ### Community Contributions
 
-- [Issues](https://github.com/search?q=is%3Aissue+author%3Amccarthy-m-g+-owner%3Amccarthy-m-g&type=issues)
-- [Pull Requests](https://github.com/search?q=is%3Apr+author%3Amccarthy-m-g+-owner%3Amccarthy-m-g&type=pullrequests)
-- [Discussions](https://github.com/search?q=is%3Adiscussion+author%3Amccarthy-m-g+-owner%3Amccarthy-m-g&type=discussions)
+- [Issues](https://github.com/search?q=is%3Aissue+involves%3Amccarthy-m-g+-owner%3Amccarthy-m-g&type=issues&s=created&o=desc)
+- [Pull Requests](https://github.com/search?q=is%3Apr+involves%3Amccarthy-m-g+-owner%3Amccarthy-m-g&type=pullrequests&s=created&o=desc)
+- [Discussions](https://github.com/search?q=is%3Adiscussion+involves%3Amccarthy-m-g+-owner%3Amccarthy-m-g&type=discussions&s=date_created&o=desc)
 
 ### Sites
 
