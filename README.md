@@ -14,6 +14,14 @@ Hi, I’m Michael, an R programmer and data scientist. My background is in psych
 
 When I’m not pushing new commits to GitHub you can find me writing music in my studio, riding my bike on the local trails, or spending time with my friends and family.
 
+### Repository Overview
+
+- [R packages](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Ar-package&type=public&language=&sort=)
+- [Quarto extensions](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Aquarto-extension&type=public&language=&sort=)
+- [Research projects](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Aresearch&type=public&language=&sort=)
+- [Teaching materials](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Ateaching&type=public&language=&sort=)
+- [Websites](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Awebsite&type=public&language=&sort=)
+
 ### Sites
 
 - [Tidy Tales: Wrangling, Visualizing, Modelling, Communicating data](https://tidytales.ca)
