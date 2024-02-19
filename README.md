@@ -21,6 +21,7 @@ When I’m not pushing new commits to GitHub you can find me writing music in my
 - [Research projects](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Aresearch&type=public&language=&sort=)
 - [Teaching materials](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Ateaching&type=public&language=&sort=)
 - [Websites](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Awebsite&type=public&language=&sort=)
+- [Gists](https://gist.github.com/mccarthy-m-g)
 
 ### Community Contributions
 
