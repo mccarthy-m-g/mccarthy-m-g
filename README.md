@@ -22,6 +22,12 @@ When I’m not pushing new commits to GitHub you can find me writing music in my
 - [Teaching materials](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Ateaching&type=public&language=&sort=)
 - [Websites](https://github.com/mccarthy-m-g?tab=repositories&q=topic%3Awebsite&type=public&language=&sort=)
 
+### Community Contributions
+
+- [Issues](https://github.com/search?q=is%3Aissue+author%3Amccarthy-m-g+-owner%3Amccarthy-m-g&type=issues)
+- [Pull Requests](https://github.com/search?q=is%3Apr+author%3Amccarthy-m-g+-owner%3Amccarthy-m-g&type=pullrequests)
+- [Discussions](https://github.com/search?q=is%3Adiscussion+author%3Amccarthy-m-g+-owner%3Amccarthy-m-g&type=discussions)
+
 ### Sites
 
 - [Tidy Tales: Wrangling, Visualizing, Modelling, Communicating data](https://tidytales.ca)
